@@ -1,0 +1,12 @@
+(kali㉿kali)-[~]
+└─$ time
+
+real    5.44s
+user    0.10s
+sys     0.07s
+cpu     3%
+
+real    5.44s
+user    0.01s
+sys     0.00s
+cpu     0%
