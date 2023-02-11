@@ -1,0 +1,394 @@
+ 1  sudo su
+    2  sudo apt install git
+    3  git clone https://github.com/x3rz/blackeye
+    4  cd blackeye
+    5  ls
+    6  git clone https://github.com/x3rz/blackeye
+    7  git clone https://github.com/M4cs/BlackEye-Python.git
+    8  cd 
+    9  cd balckeye
+   10  cd BlackEye-python
+   11  cd BlackEye
+   12  ls
+   13  cd BlackEye-Python
+   14  ls
+   15  sudo ./BlackEye-Python
+   16  sudo ./sites
+   17  sudo ./BlackEye-Python.sh
+   18  sudo..
+   19  clear
+   20  ls
+   21  git clone https://github.com/thelinuxchoice/shellphish
+   22  ls
+   23  cd thelinuxchoice
+   24  cd shellphish
+   25  git clone https://github.com/whiteeagle0/blackeye
+   26  cd blackeye
+   27  git clone https://github.com/whiteeagle0/blackeye
+   28  ls
+   29  cd BlackEye-Python
+   30  ls
+   31  clear
+   32  git clone https://github.com/thewickedkarma/blackeye-im
+   33  cd blackeye-im
+   34  chmod +X
+   35  chmod +X ./setup.sh
+   36  ./setup.sh
+   37  ./blackeye.sh
+   38  clear
+   39  ngrok help
+   40  sudo apt install ngrok
+   41  cd downloads
+   42  cd Downloads
+   43  ls
+   44  sudo tar xvzf ngrok-v3-stable-linux-amd64.tgz
+   45  ls
+   46  sudo mv ngrok /usr/local/bin/
+   47  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   48  /home/kali/.config/ngrok/ngrok.yml
+   49  ngrok help
+   50  clear
+   51  ngrok http 80
+   52  tcp 22
+   53  ngrok tcp 22
+   54  clear
+   55  sudo..
+   56  sudo ..
+   57  sudo .
+   58  sudo ..
+   59  home
+   60  clear
+   61  cd home
+   62  cd Home
+   63  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   64  ./blackeye.sh
+   65  ls
+   66  cd blackeye-im
+   67  ls
+   68  ./blackeye.sh
+   69  # in ngrok.yml\nauthtoken: 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   70  ngrok help
+   71  sudo apt install ngrok
+   72  ls
+   73  cd blackeye-im
+   74  ls
+   75  cd ngrok-stable-linux-386.zip.1
+   76  ls
+   77  ./blackeye.sh
+   78  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   79  ./ngrok authtoken ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   80  ./blackeye.sh
+   81  clear
+   82  ./blackeye.sh
+   83  ./ngrok http8080
+   84  ./ngrok http 8080
+   85  ls
+   86  cd blackeye
+   87  ./ngrok http 8080
+   88  ./ngrok http 8080
+   89  ./
+   90  ngrok http 80
+   91  git clone https://github.com/An0nUD4Y/blackeye.git
+   92  cd blackeye
+   93  ls
+   94  nano blackeye.sh
+   95  clear
+   96  sudo ./blackeye,sh
+   97  sudo ./blackeye.sh
+   98  sudo ./blackey.sh
+   99  sudo ./blackeye.sh
+  100  ./blackeye.sh
+  101  # in ngrok.yml\nauthtoken: 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+  102  # in ngrok.yml
+  103  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+  104  ls
+  105  cd blackeye-im
+  106  ./blackeye.sh
+  107  nano blackeye.sh
+  108  ls
+  109  ngrok help
+  110  ngrok http 80
+  111  ./blackeye.sh
+  112  cd blackeye-im
+  113  ./blackeye.sh
+  114  nano blackeye.sh
+  115  ./blackeye.sh
+  116  clear
+  117  cd desktop
+  118  git clone https://github.com/Ignitetch/AdvPhishing.git
+  119  ls
+  120  cd AdvPhishing
+  121  ls
+  122  bash zphisher.sh
+  123  bash AdvPhishing.sh
+  124  sudo.
+  125  sudo
+  126  git clone https://github.com/htr-tech/zphisher.git
+  127  ls
+  128  cd zphisher
+  129  ls
+  130  chmod +x *
+  131  bash zphisher.sh
+  132  bash aphisher.sh
+  133  bash zphisher.sh
+  134  clear
+  135  bash zphisher.sh
+  136  ls
+  137  cd zphisher
+  138  bash zphisher.sh
+  139  ls
+  140  cd zphisher
+  141  bash zphisher.sh
+  142  ls
+  143  cd blackeye-im
+  144  bash blackeye
+  145  ls
+  146  bash blackeye
+  147  bash blackeye.sh
+  148  ls
+  149  git clone https://github.com/MAS012/Blackeye-V2
+  150  ls
+  151  cd Blackeye-V2
+  152  ls
+  153  bash blackeye.sh
+  154  bash Blackeye.sh
+  155  bash blackeye.sh
+  156  ngrok http 8000
+  157  ls
+  158  cd zphisher
+  159  ls
+  160  bash zphisher.sh
+  161  cd zphisher
+  162  bash zphisher.sh
+  163  ls
+  164  cd zphisher
+  165  bash zphisher.sh
+  166  ls
+  167  cd zphisher
+  168  ls
+  169  bash zphisher.sh
+  170  ls
+  171  cd zphisher
+  172  ls
+  173  bash zphisher.sh
+  174  ls
+  175  cd Nphisher
+  176  ls
+  177  bash Nphisher.sh
+  178  ls
+  179  cd
+  180  ls
+  181  cd zphisher
+  182  ls
+  183  bash zphisher.sh
+  184  cd
+  185  ls
+  186  cd zphisher
+  187  ls
+  188  cd zphisher.sh
+  189  bash zphisher.sh
+  190  ls
+  191  /.zphisher.sh
+  192  ./zphisher.sh
+  193  cd
+  194  clear
+  195  git clone https://github.com/htr-tech/zphisher.git
+  196  ls
+  197  cd zphisher
+  198  ls
+  199  bash zphisher.sh
+  200  ls
+  201  date
+  202  exit
+  203  nmap_sS 192.168.1.1
+  204  nmap -sS 192.168.1.1
+  205  TCP syn port scan
+  206  nmap -sT 192.168.1.1
+  207  nmap -sA 192.168.1.1
+  208  nmap -sU 192.168.1.1
+  209  nmap -sT 192.168.1.1
+  210  ls
+  211  cd Downloads
+  212  ls
+  213  Public
+  214  is
+  215  ls
+  216  something
+  217  command
+  218  nmap -sU 192.168.1.1
+  219  nmap -sA 192.168.1.1
+  220  nmap -sT 192.168.1.1
+  221  https
+  222  ftp
+  223  sudo apt-get update
+  224  Usufy.py
+  225  sudo apt install OSRFramework
+  226  sudo apt install usufy.py
+  227  sudo apt install git
+  228  usufy.py -n <celluiod_panda> twitter facebook youtube
+  229  usufy.py -n 
+  230  git clone https://github.com/i3visio/osrframework.git
+  231  ls
+  232  cd osrframework 
+  233  ls
+  234  bash osrframework
+  235  cd osrframework 
+  236  ls
+  237  chmod +x *
+  238  ls
+  239  bash usufy.py
+  240  cd usufy.py
+  241  ./usufy.py
+  242  ls
+  243  usufy.py
+  244  cd
+  245  sudo pip3 install osrframework
+  246  sudo pip3 install osrframework --upgrade
+  247  ls
+  248  cd osrframework 
+  249  ls
+  250  cd osrframework 
+  251  ls
+  252  bash usufy.py
+  253  usufy -n i3visio febrezo yrubiosec -p twitter facebook
+  254  ls
+  255  usufy -n
+  256  usufy -n i3visio febrezo yrubiosec -p twitter facebook
+  257  kali
+  258  hystory
+  259  history
+  260  exit
+  261  history
+  262  date
+  263  time
+  264  pwd
+  265  sudo pip3 install osrframework
+  266  ls
+  267  cd osrframework 
+  268  ls
+  269  cd osrframework 
+  270  ls
+  271  searchfy.py -n
+  272  cd
+  273  pip install osrframework_console
+  274  pip install osrframework_console --upgrade
+  275  ls
+  276  cd osrframework 
+  277  ls
+  278  cd
+  279  pip install osrframework --user
+  280  echo $PATH
+  281  export PY_USER_BIN=$(python -c 'import site; print(site.USER_BASE + "/bin")')\nexport PATH=$PY_USER_BIN:$PATH
+  282  pip install virtualenv --user
+  283  virtualenv osrframework-virtualenv
+  284  source osrframework-virtualenv/bin/activate\n(osrframework-virtualenv)$
+  285  osrframework-virtualenv/bin/activate
+  286  chmod +x *
+  287  osrframework-virtualenv/bin/activate
+  288  (osrframework-virtualenv)$\n
+  289  (osrframework-virtualenv)
+  290  (osrframework-virtualenv)$ pip install osrframework\n(osrframework-virtualenv)$ usufy.py -h
+  291  (osrframework-virtualenv) pip install osrframework\n(osrframework-virtualenv) usufy.py -h
+  292  (osrframework-virtualenv) usufy.py -h 
+  293  (osrframework-virtualenv)usufy.py -h 
+  294  ls
+  295  cd osrframework 
+  296  ls
+  297  usufy.py -h \n
+  298  cd
+  299  # usufy.py -n kalilinux\n
+  300  sudo apt install osrframework
+  301  clear
+  302  ls
+  303  cd osrframework-virtualenv 
+  304  ls
+  305  cd bin
+  306  ls
+  307  chmod +x *
+  308  ls
+  309  activate_this.py
+  310  activate_this.py -h
+  311  cd
+  312  pip install osrframework
+  313  usufy.py -n yrublosec febrezo -p twitter facebook github youtube
+  314  ls
+  315  rm osrframework-virtualenv 
+  316  rm -d osrframework-virtualenv 
+  317  cd osrframework-virtualenv 
+  318  ls
+  319  rm bin
+  320  rm pyvenv.cfg
+  321  ls
+  322  cd bin
+  323  ls
+  324  rm -r bin
+  325  rm -r osrframework
+  326  clear
+  327  ls
+  328  cd
+  329  ls
+  330  apt install python3.pip
+  331  chmod +x *
+  332  sudo apt install pyhton3.pip
+  333  clear
+  334  osrf
+  335  # dconf reset -f /
+  336  # dconf reset -f / 
+  337  ls
+  338  # dconf reset -f/
+  339  dconf reset -f/
+  340  ls
+  341  apt intall dconf-cli
+  342  apt install dconf-cli
+  343  ls
+  344  cd Desktop
+  345  ls
+  346  cd tagme
+  347  ls
+  348  chmod +x *
+  349  ls
+  350  i
+  351  cd
+  352  c
+  353  clear
+  354  ls
+  355  git clone https://github.com/i3visio/osrframework.git
+  356  cd osrframework 
+  357  ls
+  358  cat requirements.txt
+  359  setup tools
+  360  set up tools
+  361  pip3 install -r requriments.txt
+  362  chmod +x *
+  363  pip3 install -r requriments.txt
+  364  cd osrframework 
+  365  ls
+  366  chmod +x *
+  367  ls
+  368  ls -al
+  369  domainfy
+  370  domainfy -n sunil
+  371  ls
+  372  alias_generator.py -n sunil
+  373  alias_generator.py -n harsha
+  374  phonefy.py -n harsha
+  375  phonefy.py -n 9949936780
+  376  cd domain
+  377  cd domains 
+  378  ls
+  379  domainfy.py -n sunil
+  380  usufy -n i3visio febrezo yrubiosec -p twitter facebook
+  381  ls
+  382  git clone https://github.com/i3visio/osrframework.git
+  383  ls
+  384  cd Camphish
+  385  cd CamPhish
+  386  ls
+  387  bash camphish.sh
+  388  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+  389  cd CamPhish
+  390  bash camphish.sh
+  391  ls
+  392  cd blackeye-im
+  393  ls
+  394  bash blackeye.sh
