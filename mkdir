@@ -1,0 +1,12 @@
+──(kali㉿kali)-[~]
+└─$ cd Documents
+                                                                                                                                                                                                                  
+┌──(kali㉿kali)-[~/Documents]
+└─$ mkdir penetration testing
+                                                                                                                                                                                                                  
+┌──(kali㉿kali)-[~/Documents]
+└─$ ls
+penetration  testing
+                                                                                                                                                                                                                  
+┌──(kali㉿kali)-[~/Documents]
+└─$ 
