@@ -1,0 +1,32 @@
+┌──(kali㉿kali)-[~]
+└─$ ls -al
+total 140
+drwx------ 15 kali kali  4096 Feb  8 00:01 .
+drwxr-xr-x  3 root root  4096 Dec  5 08:43 ..
+-rw-r--r--  1 kali kali   220 Dec  5 08:43 .bash_logout
+-rw-r--r--  1 kali kali  5551 Dec  5 08:43 .bashrc
+-rw-r--r--  1 kali kali  3526 Dec  5 08:43 .bashrc.original
+drwxr-xr-x  6 kali kali  4096 Feb  7 23:43 .cache
+drwxr-xr-x 14 kali kali  4096 Feb  7 23:58 .config
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Desktop
+-rw-r--r--  1 kali kali    35 Feb  7 23:32 .dmrc
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Documents
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Downloads
+-rw-r--r--  1 kali kali 11759 Dec  5 08:43 .face
+lrwxrwxrwx  1 kali kali     5 Dec  5 08:43 .face.icon -> .face
+-rw-------  1 kali kali 12288 Feb  7 23:55 .file.text.swp
+drwx------  3 kali kali  4096 Feb  7 23:32 .gnupg
+-rw-------  1 kali kali     0 Feb  7 23:32 .ICEauthority
+drwxr-xr-x  3 kali kali  4096 Dec  5 08:43 .java
+drwx------  3 kali kali  4096 Feb  7 23:32 .local
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Music
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:57 Pictures
+-rw-r--r--  1 kali kali   807 Dec  5 08:43 .profile
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Public
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Templates
+drwxr-xr-x  2 kali kali  4096 Feb  7 23:32 Videos
+-rw-------  1 kali kali   684 Feb  7 23:52 .viminfo
+-rw-------  1 kali kali    49 Feb  7 23:32 .Xauthority
+-rw-------  1 kali kali  6595 Feb  7 23:52 .xsession-errors
+-rw-------  1 kali kali   182 Feb  7 23:52 .zsh_history
+-rw-r--r--  1 kali kali 10877 Dec  5 08:43 .zshrc
